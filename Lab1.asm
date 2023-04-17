@@ -61,4 +61,3 @@ Mainloop jmp Mainloop ; Infinite Loop
 ;-------------------------------------------------------------------------------
             .sect   ".reset"                ; MSP430 RESET Vector
             .short  RESET
-            
