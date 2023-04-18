@@ -20,7 +20,7 @@ Lab 4: Wrote a program in C and assembled a breadboard to create a 3-bit lightin
 https://user-images.githubusercontent.com/112228115/232627692-7eaa20eb-f142-473f-ac87-a16f273979be.mov
 
 
-Lab 5: Will be completed by 04/21
+Lab 5: Will be completed by 04/28
 
 
 Lab 6: Will be completed by 05/01
