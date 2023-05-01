@@ -1,5 +1,3 @@
-
-
 #include <msp430.h> 
 
 void LED(); //led function read/write, rotation, and speed.
