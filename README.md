@@ -20,7 +20,7 @@ Lab 4: Wrote a program in C and assembled a breadboard to create a 3-bit lightin
 https://user-images.githubusercontent.com/112228115/232627692-7eaa20eb-f142-473f-ac87-a16f273979be.mov
 
 
-Lab 5: Wrote a program in C and assembled a breadboard to create a counter that displays numbers from 00-99. Different combinations of 3 switches determine the operation of the counter as explained below. Skeleton code was provided.
+Lab 5: Edited a program in C and assembled a breadboard to create a counter that displays numbers from 00-99. Different combinations of 3 switches determine the operation of the counter as explained below. Skeleton code was provided.
   Modified code so that the counter initial number setup goes as follows.
 •  SW-321 = 000: Counter resets to 00
 •  SW-321 = 100: Right digit cycles 0-9
@@ -33,6 +33,8 @@ Lab 5: Wrote a program in C and assembled a breadboard to create a counter that 
 https://user-images.githubusercontent.com/112228115/235547017-c0bb6cee-4203-4909-926c-5c12997a8a73.mov
 
 
-
-
-Lab 6: Will be completed by 05/01
+Lab 6: Edited a program in C and assembled a breadboard to convert analog to digital signals in order to control a 3 LEDs. Skeleton code was provided.
+•  The temperature sensor LED (LED 3) will turn on when held
+•  The touch switch LED (LED 2) will togle on and off when exposed wires are touched by finger
+•  The light sensor LED (LED 1) will turn on when conditions get brighter or darker than original light values.
+https://user-images.githubusercontent.com/112228115/235550465-a62b15c9-fa7b-4472-bd22-86c631d4bd15.mov
